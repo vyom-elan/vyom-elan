@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a 4th year ECE student working on verilog and FPGA board.
 
 <!--
 **vyom-elan/vyom-elan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
