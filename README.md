@@ -1,5 +1,4 @@
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <h1 align="center">Hi 👋, I'm Vyom Pandey</h1>
 <h3 align="center">A passionate in VLSI design from India</h3>
