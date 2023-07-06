@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Vyom Pandey</h1>
-<h3 align="center">A passionate in VLSI design from India</h3>
+<h1 align="center">Hello I am Vyom Pandey</h1>
+<h4 align="center">A passionate in VLSI design from India💻</h4>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/Electronic-Chip.gif">
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-elan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-elan" /> </p>
