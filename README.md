@@ -4,7 +4,7 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-elan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-elan" /> </p>
-<img align="center" alt="Coding" width="600" src="https://scitechdaily.com/images/Electronic-Chip.gif">
+<img align="center" alt="Coding" width="1100" src="https://scitechdaily.com/images/Electronic-Chip.gif">
 <br><br>
 
 <h4 align="justify">Working professional with 2 years of experience in RTL design and functional verification. Skilled in SystemVerilog and UVM, with expertise in using Synopsys tools for simulation, synthesis and verification. 💻</h4>
