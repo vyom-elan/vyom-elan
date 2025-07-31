@@ -1,20 +1,16 @@
 
+<h1 align="center"> Vyom Pandey</h1>
+<h3 align="center"> Verification Engineer</h3>
 
-<h1 align="center">Hello I am Vyom Pandey</h1>
-<h4 align="center">A passionate in VLSI design from India💻</h4>
-
-<img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/Electronic-Chip.gif">
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyom-elan&label=Profile%20views&color=0e75b6&style=flat" alt="vyom-elan" /> </p>
+<img align="center" alt="Coding" width="600" src="https://scitechdaily.com/images/Electronic-Chip.gif">
+<br><br>
 
-🔴 I’m currently learning and working on Verilog, System Verilog and UVM
+<h4 align="justify">Working professional with 2 years of experience in RTL design and functional verification. Skilled in SystemVerilog and UVM, with expertise in using Synopsys tools for simulation, synthesis and verification. 💻</h4>
 
-🟢 I’m looking to collaborate and work on different VLSI projects
+<h4 align="justify">This repository showcases projects completed during my undergraduate studies. I am looking to collaborate and work on  projects. Mail id - vyompbh@gmail.com</h4>
 
-🟡 I have worked on Verilog, System Verilog, UVM, C, C++, Python-django.
-
-🔵 My mail id **vpandey200@gmail.com**
 
 <h3 align="left">My LinkedIn:</h3>
 <p align="left">
